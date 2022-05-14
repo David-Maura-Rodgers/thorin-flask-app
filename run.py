@@ -1,5 +1,6 @@
 import os
 from flask import Flask, render_template
+# pip3 install Flask / python3 run.py
 
 app = Flask(__name__)
 
